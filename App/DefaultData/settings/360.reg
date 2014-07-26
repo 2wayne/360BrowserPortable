@@ -1,0 +1,23 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\360Browser\Browser]
+"LastTimeCheck"=
+"LastTimeCheckVersion"="7.5.1.116"
+"statistic.countofwebkit"=
+
+[HKEY_CURRENT_USER\Software\360Browser\Browser\Statistics]
+"LastTimeCheck"=
+
+[HKEY_CURRENT_USER\Software\360Browser\Browser\Statistics\StringValue]
+"user_state"=""
+
+[HKEY_CURRENT_USER\Software\360Browser\Browser\Statistics\UintValue]
+"ntpgo"=
+
+[HKEY_CURRENT_USER\Software\360Browser\Browser\Default]
+"homepage"=""
+"urls_to_restore_on_startup"=""
+
+[HKEY_CURRENT_USER\Software\360Browser\Update\ClientState]
+"dr"=""
+"lastrun"=""
