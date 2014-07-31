@@ -1,0 +1,24 @@
+{
+  // Please update the version number whenever you change this file.
+  "version": "1.0.1.5",
+  "entries": {
+    "4318": {
+	  //Nvidia
+	  "default_wv": 4095,
+	  "default_bv": 50,
+      "devices": []
+    },
+	"32902": {
+	  //Intel
+	  "default_wv": 4095,
+	  "default_bv": 50,
+      "devices": []
+    },
+    "4098": {
+	  //AMD
+	  "default_wv": 4095,
+	  "default_bv": 50,
+      "devices": []
+    }
+  }
+}
